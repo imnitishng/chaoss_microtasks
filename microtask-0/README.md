@@ -1,4 +1,5 @@
 # Microtask 0
+Download PyCharm and get familiar with it (for instance, you can follow this tutorial).
 
 ## Steps
 * Downloaded PyCharm tarball (.tar.gz) from [here](https://www.jetbrains.com/toolbox-app/).

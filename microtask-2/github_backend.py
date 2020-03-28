@@ -1,5 +1,3 @@
-# 545e1179efdd7369b42883a2cc42df1ab68c5713
-# FLypRg9ydCjgVyW7JDxW - gitlab
 
 import argparse
 

@@ -21,29 +21,36 @@ Sample usage
 ```
 python3 git_backend.py -r https://github.com/imnitishng/grimoirelab-perceval-mozilla -p grimoirelab-perceval-mozilla -d y
 ```
+Sample output can be found at `git_commits.json`.
 
-2. Prepare a virtualenv to install and manage all packages separate from other projects. 
+Sample terminal output.
+
+<img src="./images/git_commits.png" width="800" alt="Commits">
+
+
+## Github Backend
+
+* `github_backend.py` is the script to execute Perceval on Git backend.
+
+* Script supports dumping extracted JSON data to a file or printing it to terminal.
+
+* From date and to date is also supported alongwith Github Issues and PRs.
+
+* A few parameters for running the script are defined below.
+
 ```
-$ python3 -m venv ~/venvs/grimoirelab
-$ source ~/venvs/grimo/bin/activate
-```
-The above commands create and activate a virtual environment in the `~/venvs/grimoirelab` directory.
-
-3. Install all the requirments for Perceval.
-```
-$ pip3 install -r requirements.txt
-$ pip3 install -r requirements_tests.txt
-$ pip3 install -e .
+-r, --repo = "Github owner/repository name"
+-t, --token = "Github API token"
+-d, --create_dump = "y/n for creating JSON data dumps"
 ```
 
-4. Open Perceval using PyCharm and set interpreter as the virtual environment created above.
-	
-	<img src="./images/perceval_set.png" width="800" alt="Perceval set">
- 
-5. Run Perceval for the first time on the `perceval` repository using the command.
-   
-	`perceval github grimoirelab perceval --sleep-for-rate`
+Sample usage
+```
+python3 github_backend.py -r chaoss/grimoirelab-perceval -t <your API token> -d n
+```
+Sample output can be found at `github.json`.
 
-	<img src="./images/pycharm_run.png" width="800" alt="Run">
+Sample terminal output.
 
-   Additional arguments for running perceval can be found on the [grimoirelab tutotial](https://chaoss.github.io/grimoirelab-tutorial/perceval/github.html) page
+<img src="./images/github.png" width="800" alt="Github">
+

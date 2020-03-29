@@ -1,0 +1,19 @@
+{
+    "prosoul": {
+        "git": [
+            "https://github.com/Bitergia/prosoul"
+        ],
+        "github": [
+            "https://github.com/Bitergia/prosoul"
+        ],
+        "github:issue": [
+            "https://github.com/Bitergia/prosoul"
+        ],
+        "github:pull": [
+            "https://github.com/Bitergia/prosoul"
+        ],
+        "dockerhub": [
+            "bitergia kibiter"
+        ]
+    }
+}

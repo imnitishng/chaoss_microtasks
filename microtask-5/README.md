@@ -12,12 +12,12 @@ Execute micro-mordred to collect and enrich data from any Git repository.
 3 . Make sure the Kibana and Elasticsearch instances and up and running.
 
 4 . Run micro.py for git backend 
-`python3 micro.py --raw --enrich --cfg ./setup.cfg --backends git `
+`python3 micro.py --raw --enrich --cfg ./setup.cfg --backends git`
  
 
 Terminal Logs:
 
-<img src="./images/logs.png" width="800" alt="Log Completion">
+<img src="./images/logs.png" width="800" alt="Logs">
 
 
 

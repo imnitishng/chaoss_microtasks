@@ -1,4 +1,4 @@
-# Chaoss-Microtasks 
+# CHAOSS microtasks 
 
 Microtasks repositorty for GSoC Idea: Boosting data processing in GrimoireLab
 

@@ -1,0 +1,22 @@
+{
+    "prosoul": {
+        "git": [
+            "https://github.com/juliettepretot/npx-co-commit"
+        ],
+        "github": [
+            "https://github.com/Bitergia/prosoul"
+        ],
+        "github:issue": [
+            "https://github.com/Bitergia/prosoul"
+        ],
+        "github:pull": [
+            "https://github.com/Bitergia/prosoul"
+        ],
+        "gerrit": [
+            "review.opendev.org"
+        ],
+        "gitlab": [
+            "https://gitlab.com/quantumsim/quantumsim"
+        ]
+    }
+}

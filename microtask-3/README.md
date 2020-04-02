@@ -25,8 +25,8 @@ try to answer the following questions:
 
 * How many categories do the GitHub and GitLab backends have?
 
-    Git backend has only one category, namely `commits`.
     GitHub backend has three categories, namely `issues`, `pull_request` and `repository`.
+    GitLab backend has two categories, namely `issue` and `merge_reques`.
     
 
 * What is the meaning of the JSON attribute 'uuid'?

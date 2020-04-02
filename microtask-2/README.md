@@ -1,4 +1,4 @@
-# Microtask 1:
+# Microtask 2:
 Create a Python script to execute Perceval via its Python interface using the Git and GitHub backends. Feel free to select any target repository.
 
 ## Git Backend

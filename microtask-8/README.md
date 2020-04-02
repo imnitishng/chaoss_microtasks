@@ -22,14 +22,14 @@ In your machine, run the tests for ELK within PyCharm. If you succeed, you can t
 
 6. Tests can be run individually or for the whole GrimoireLab-ELK 
 
-###To run tests for a particular backend (Git in this case) use 
+### To run tests for a particular backend (Git in this case) use 
 
 		python3 -m coverage run test_git.py
 
  Test running logs -
 <img src="./images/test2.png" width="800" alt="Logs">
 
-###To run all the tests use  
+### To run all the tests use  
 	
 		python3 -m coverage run run_tests.py --source=grimoire_elk 
 

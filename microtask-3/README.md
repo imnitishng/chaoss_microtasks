@@ -40,6 +40,7 @@ try to answer the following questions:
 
     The attribute 'search_fields' adds extra fields for search about the item fetched by Perceval. 
     The 'search_fields' for GitLab backend include, `id`, `owner`, `iid`, `project` and `groups`.
+    Also they are used to avoid inspecting the content of attribute `data`.
 
 
 * What is stored in the attribute data of each JSON document produced by Perceval?

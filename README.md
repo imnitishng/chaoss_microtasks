@@ -2,7 +2,7 @@
 
 Microtasks repositorty for GSoC Idea: Boosting data processing in GrimoireLab
 
-##  :white_check_mark: Microtask 1:
+##  :white_check_mark: [Microtask 1](./microtask-1):
 Set up Perceval to be executed from PyCharm. 
 
 ##  :white_check_mark: Microtask 2:

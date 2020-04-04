@@ -8,9 +8,12 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 |  1   |[fixed username and pass for kibiter login](https://github.com/chaoss/grimoirelab-sirmordred/pull/420)| -                                                                                              |[grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred/)      |  Merged         |
 |  2   |[added warning for trailing slashes in URL ](https://github.com/chaoss/grimoirelab-elk/pull/810)| -                                                                                              |[grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred/)      |  Open         |
 |  3   |[added projects_map db to improve coverage](https://github.com/chaoss/grimoirelab-elk/pull/828)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Merged         |
+|  4   |[added gitter backend support for grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk/pull/831)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Open         |
 
 #### Issues Opened
 
 * [pair_programming for git backend doesn't work right](https://github.com/chaoss/grimoirelab-elk/issues/825)
+
+* [[gitter] Adding data storage for gitter](https://github.com/chaoss/grimoirelab-elk/issues/820)
 
 I will be working on my contributions. Expect more Pull Requests soon.

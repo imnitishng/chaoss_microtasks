@@ -12,6 +12,7 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 |  5   |[support for pair_programming tests](https://github.com/chaoss/grimoirelab-elk/pull/832)| [pair_programming for git backend doesn't work right](https://github.com/chaoss/grimoirelab-elk/issues/825)                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Merged         |
 |  6   |[[gitter] Added gitter dashboard](https://github.com/chaoss/grimoirelab-sigils/pull/443)| -                                                                                              |[grimoirelab-sigils](https://github.com/chaoss/grimoirelab-sigils)      |  Open         |
 |  7   |[[gitter] added aliases and menu.yaml entry](https://github.com/chaoss/grimoirelab-sirmordred/pull/453)| -                                                                                              |[grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)      |  Open         |
+|  8   |[updated docstring for pair_programming](https://github.com/chaoss/grimoirelab-elk/pull/845)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Open         |
 
 #### Issues Opened
 

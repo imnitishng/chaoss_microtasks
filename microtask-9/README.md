@@ -14,8 +14,10 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 |  7   |[[gitter] added aliases and menu.yaml entry](https://github.com/chaoss/grimoirelab-sirmordred/pull/453)| -                                                                                              |[grimoirelab-sirmordred](https://github.com/chaoss/grimoirelab-sirmordred)      |  Merged         |
 |  8   |[updated docstring for pair_programming](https://github.com/chaoss/grimoirelab-elk/pull/845)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Merged         |
 |  9   |[[launchpad] Add support for launchpad](https://github.com/chaoss/grimoirelab-elk/pull/851)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Open         |
+|  10   |[[Bitbucket] Add bitbucket backend to perceval](https://github.com/chaoss/grimoirelab-perceval/pull/653)| -                                                                                              |[grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)      |  Open         |
 
 
+[Bitbucket] Add bitbucket backend to perceval #653
 #### Issues Opened
 
 * [pair_programming for git backend doesn't work right](https://github.com/chaoss/grimoirelab-elk/issues/825) (Closed)

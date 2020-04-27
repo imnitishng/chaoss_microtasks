@@ -18,7 +18,6 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 |  11   |[[launchpad] Add panels for launchpad](https://github.com/chaoss/grimoirelab-sigils/pull/448)| -                                                                                              |[grimoirelab-sigils](https://github.com/chaoss/grimoirelab-sigils)      |  Open         |
 
 
-[Bitbucket] Add bitbucket backend to perceval #653
 #### Issues Opened
 
 * [pair_programming for git backend doesn't work right](https://github.com/chaoss/grimoirelab-elk/issues/825) (Closed)

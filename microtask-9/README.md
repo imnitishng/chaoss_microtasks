@@ -16,6 +16,7 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 |  9   |[[launchpad] Add support for launchpad](https://github.com/chaoss/grimoirelab-elk/pull/863)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Open         |
 |  10   |[[Bitbucket] Add bitbucket backend to perceval](https://github.com/chaoss/grimoirelab-perceval/pull/653)| -                                                                                              |[grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)      |  Open         |
 |  11   |[[launchpad] Add panels for launchpad](https://github.com/chaoss/grimoirelab-sigils/pull/448)| -                                                                                              |[grimoirelab-sigils](https://github.com/chaoss/grimoirelab-sigils)      |  Open         |
+|  12   |[[Enrich] Add `copy_raw_fields()` method and refactor enrichers #864](https://github.com/chaoss/grimoirelab-elk/pull/864)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Open         |
 
 
 #### Issues Opened

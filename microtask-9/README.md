@@ -25,4 +25,6 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 
 * [[gitter] Adding data storage for gitter](https://github.com/chaoss/grimoirelab-elk/issues/820) (Closed)
 
+* [csv for `openstack_gender` missing?](https://github.com/chaoss/grimoirelab-cereslib/issues/31) (Open)
+
 I will be working on my contributions. Expect more Pull Requests soon.

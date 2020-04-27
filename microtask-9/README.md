@@ -15,6 +15,7 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 |  8   |[updated docstring for pair_programming](https://github.com/chaoss/grimoirelab-elk/pull/845)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Merged         |
 |  9   |[[launchpad] Add support for launchpad](https://github.com/chaoss/grimoirelab-elk/pull/851)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Open         |
 |  10   |[[Bitbucket] Add bitbucket backend to perceval](https://github.com/chaoss/grimoirelab-perceval/pull/653)| -                                                                                              |[grimoirelab-perceval](https://github.com/chaoss/grimoirelab-perceval)      |  Open         |
+|  11   |[[launchpad] Add panels for launchpad](https://github.com/chaoss/grimoirelab-sigils/pull/448)| -                                                                                              |[grimoirelab-sigils](https://github.com/chaoss/grimoirelab-sigils)      |  Open         |
 
 
 [Bitbucket] Add bitbucket backend to perceval #653

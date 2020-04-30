@@ -18,6 +18,7 @@ Submit at least a PR to one of the GrimoireLab repositories to fix an issue, imp
 |  11   |[[launchpad] Add panels for launchpad](https://github.com/chaoss/grimoirelab-sigils/pull/448)| -                                                                                              |[grimoirelab-sigils](https://github.com/chaoss/grimoirelab-sigils)      |  Open         |
 |  12   |[[Enrich] Add `copy_raw_fields()` method and refactor enrichers #864](https://github.com/chaoss/grimoirelab-elk/pull/864)| -                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Open         |
 |  13   |[[Mbox] Add tests and test data for MBox KIP study.](https://github.com/chaoss/grimoirelab-elk/pull/865)| [Evaluate how to increase test coverge for enriched/mbox_study_kip.py](https://github.com/chaoss/grimoirelab-elk/issues/840)                                                                                              |[grimoirelab-elk](https://github.com/chaoss/grimoirelab-elk)      |  Open         |
+|  14   |[[test] Add test for Git events.](https://github.com/chaoss/grimoirelab-cereslib/pull/32)| -                                                                                              |[grimoirelab-cereslib](https://github.com/chaoss/grimoirelab-cereslib)      |  Open         |
 
 
 #### Issues Opened
